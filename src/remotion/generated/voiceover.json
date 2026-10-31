@@ -1,0 +1,5781 @@
+{
+ "fps": 30,
+ "transitionFrames": 15,
+ "leadMs": 500,
+ "totalFrames": 11209,
+ "voice": "en-US-EmmaMultilingualNeural",
+ "scenes": [
+  {
+   "id": "intro",
+   "title": "Serbisyong May Puso",
+   "chapter": "Introduction",
+   "hash": "95493beddf47",
+   "audio": "voiceover/intro.mp3",
+   "durationMs": 19320,
+   "frames": 616,
+   "captions": [
+    {
+     "text": "Serbisyong",
+     "startMs": 572,
+     "endMs": 1221,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " May",
+     "startMs": 1233,
+     "endMs": 1377,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Puso.",
+     "startMs": 1389,
+     "endMs": 1954,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " From",
+     "startMs": 2339,
+     "endMs": 2531,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " January",
+     "startMs": 2543,
+     "endMs": 3120,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 3132,
+     "endMs": 3276,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " October",
+     "startMs": 3288,
+     "endMs": 4779,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 2026,",
+     "startMs": 4779,
+     "endMs": 5115,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 5115,
+     "endMs": 5212,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Provincial",
+     "startMs": 5224,
+     "endMs": 5728,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Social",
+     "startMs": 5740,
+     "endMs": 6125,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Welfare",
+     "startMs": 6137,
+     "endMs": 6594,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 6606,
+     "endMs": 6690,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Development",
+     "startMs": 6702,
+     "endMs": 7219,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Office",
+     "startMs": 7231,
+     "endMs": 7579,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 7591,
+     "endMs": 7699,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Romblon",
+     "startMs": 7712,
+     "endMs": 8264,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " reached",
+     "startMs": 8397,
+     "endMs": 8673,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 22,513",
+     "startMs": 8685,
+     "endMs": 10620,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " clients",
+     "startMs": 10632,
+     "endMs": 11089,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " across",
+     "startMs": 11101,
+     "endMs": 11462,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 11474,
+     "endMs": 11558,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " province.",
+     "startMs": 11570,
+     "endMs": 12219,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Behind",
+     "startMs": 12603,
+     "endMs": 13012,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " every",
+     "startMs": 13024,
+     "endMs": 13252,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " one",
+     "startMs": 13264,
+     "endMs": 13433,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 13445,
+     "endMs": 13541,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " these",
+     "startMs": 13553,
+     "endMs": 13757,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " numbers",
+     "startMs": 13769,
+     "endMs": 14142,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 14154,
+     "endMs": 14274,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 14286,
+     "endMs": 14346,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " family,",
+     "startMs": 14358,
+     "endMs": 14875,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 15356,
+     "endMs": 15416,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " child,",
+     "startMs": 15428,
+     "endMs": 15945,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " or",
+     "startMs": 16197,
+     "endMs": 16329,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " an",
+     "startMs": 16341,
+     "endMs": 16474,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " elder",
+     "startMs": 16486,
+     "endMs": 16810,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " whose",
+     "startMs": 16822,
+     "endMs": 17038,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " life",
+     "startMs": 17050,
+     "endMs": 17303,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " was",
+     "startMs": 17315,
+     "endMs": 17471,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " touched.",
+     "startMs": 17483,
+     "endMs": 18012,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " This",
+     "startMs": 18385,
+     "endMs": 18553,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 18565,
+     "endMs": 18709,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " our",
+     "startMs": 18721,
+     "endMs": 18865,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " story.",
+     "startMs": 18877,
+     "endMs": 19466,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 0
+  },
+  {
+   "id": "mandate",
+   "title": "Our Mandate",
+   "chapter": "Mandate",
+   "hash": "874b572cffed",
+   "audio": "voiceover/mandate.mp3",
+   "durationMs": 25200,
+   "frames": 792,
+   "captions": [
+    {
+     "text": "The",
+     "startMs": 584,
+     "endMs": 656,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " PSWDO",
+     "startMs": 668,
+     "endMs": 1666,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " promotes",
+     "startMs": 1678,
+     "endMs": 2074,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " social",
+     "startMs": 2087,
+     "endMs": 2435,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " protection,",
+     "startMs": 2447,
+     "endMs": 3060,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " upholds",
+     "startMs": 3529,
+     "endMs": 3937,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " human",
+     "startMs": 3950,
+     "endMs": 4250,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " dignity,",
+     "startMs": 4262,
+     "endMs": 4791,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 5200,
+     "endMs": 5332,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " enhances",
+     "startMs": 5344,
+     "endMs": 5861,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 5873,
+     "endMs": 5981,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " well-being",
+     "startMs": 5993,
+     "endMs": 6510,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 6522,
+     "endMs": 6630,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " disadvantaged",
+     "startMs": 6642,
+     "endMs": 7375,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " individuals,",
+     "startMs": 7387,
+     "endMs": 8108,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " families,",
+     "startMs": 8469,
+     "endMs": 8986,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 9010,
+     "endMs": 9202,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " communities.",
+     "startMs": 9214,
+     "endMs": 9983,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Six",
+     "startMs": 10368,
+     "endMs": 10656,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " major",
+     "startMs": 10668,
+     "endMs": 10993,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " final",
+     "startMs": 11005,
+     "endMs": 11353,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " outputs",
+     "startMs": 11365,
+     "endMs": 11786,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " guide",
+     "startMs": 11798,
+     "endMs": 12038,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " this",
+     "startMs": 12050,
+     "endMs": 12231,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " work:",
+     "startMs": 12243,
+     "endMs": 12531,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " approving",
+     "startMs": 13000,
+     "endMs": 13397,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " policies",
+     "startMs": 13409,
+     "endMs": 13950,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 13962,
+     "endMs": 14058,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " plans,",
+     "startMs": 14070,
+     "endMs": 14550,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " implementing",
+     "startMs": 14851,
+     "endMs": 15476,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " social",
+     "startMs": 15488,
+     "endMs": 15849,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " protection",
+     "startMs": 15861,
+     "endMs": 16365,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " programs,",
+     "startMs": 16377,
+     "endMs": 16978,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " running",
+     "startMs": 17363,
+     "endMs": 17651,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " centers",
+     "startMs": 17663,
+     "endMs": 18072,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 18084,
+     "endMs": 18168,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " institutions,",
+     "startMs": 18180,
+     "endMs": 19022,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " delivering",
+     "startMs": 19310,
+     "endMs": 19779,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " special",
+     "startMs": 19791,
+     "endMs": 20212,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " operations,",
+     "startMs": 20224,
+     "endMs": 20945,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " providing",
+     "startMs": 21245,
+     "endMs": 21678,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " technical",
+     "startMs": 21690,
+     "endMs": 22159,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " assistance,",
+     "startMs": 22171,
+     "endMs": 22784,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 23060,
+     "endMs": 23228,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " ensuring",
+     "startMs": 23240,
+     "endMs": 23661,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " compliance",
+     "startMs": 23673,
+     "endMs": 24214,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 24226,
+     "endMs": 24358,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " provincial",
+     "startMs": 24370,
+     "endMs": 24875,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " rules.",
+     "startMs": 24887,
+     "endMs": 25344,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 601
+  },
+  {
+   "id": "personnel",
+   "title": "The People Behind the Service",
+   "chapter": "Personnel",
+   "hash": "c96285e01056",
+   "audio": "voiceover/personnel.mp3",
+   "durationMs": 22128,
+   "frames": 700,
+   "captions": [
+    {
+     "text": "Who",
+     "startMs": 584,
+     "endMs": 704,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " delivers",
+     "startMs": 716,
+     "endMs": 1209,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " these",
+     "startMs": 1221,
+     "endMs": 1413,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " services?",
+     "startMs": 1426,
+     "endMs": 2135,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 92",
+     "startMs": 2519,
+     "endMs": 3012,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " personnel,",
+     "startMs": 3024,
+     "endMs": 3673,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " including",
+     "startMs": 3974,
+     "endMs": 4430,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 12",
+     "startMs": 4442,
+     "endMs": 4791,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " licensed",
+     "startMs": 4803,
+     "endMs": 5260,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " social",
+     "startMs": 5272,
+     "endMs": 5632,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " workers,",
+     "startMs": 5644,
+     "endMs": 6101,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " spread",
+     "startMs": 6498,
+     "endMs": 6786,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " across",
+     "startMs": 6798,
+     "endMs": 7183,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " every",
+     "startMs": 7267,
+     "endMs": 7507,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " program.",
+     "startMs": 7519,
+     "endMs": 8132,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Twenty",
+     "startMs": 8517,
+     "endMs": 8781,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " staff",
+     "startMs": 8793,
+     "endMs": 9106,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " serve",
+     "startMs": 9118,
+     "endMs": 9406,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " under",
+     "startMs": 9418,
+     "endMs": 9623,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Golden",
+     "startMs": 9635,
+     "endMs": 10007,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Life,",
+     "startMs": 10019,
+     "endMs": 10404,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " nineteen",
+     "startMs": 10824,
+     "endMs": 11281,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " at",
+     "startMs": 11293,
+     "endMs": 11401,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Bahay",
+     "startMs": 11413,
+     "endMs": 11702,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Pag-asa,",
+     "startMs": 11714,
+     "endMs": 12423,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 12928,
+     "endMs": 13072,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " sixteen",
+     "startMs": 13084,
+     "endMs": 13577,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 13589,
+     "endMs": 13685,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Productivity",
+     "startMs": 13697,
+     "endMs": 14382,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Skills",
+     "startMs": 14394,
+     "endMs": 14767,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 14779,
+     "endMs": 14863,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Capability",
+     "startMs": 14875,
+     "endMs": 15524,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Building.",
+     "startMs": 15536,
+     "endMs": 16017,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Yet",
+     "startMs": 16389,
+     "endMs": 16546,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " only",
+     "startMs": 16558,
+     "endMs": 16810,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " nine",
+     "startMs": 16822,
+     "endMs": 17099,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " positions",
+     "startMs": 17111,
+     "endMs": 17687,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " are",
+     "startMs": 17700,
+     "endMs": 17796,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " permanent.",
+     "startMs": 17808,
+     "endMs": 18457,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Most",
+     "startMs": 18841,
+     "endMs": 19178,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 19190,
+     "endMs": 19274,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " this",
+     "startMs": 19286,
+     "endMs": 19490,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " work",
+     "startMs": 19502,
+     "endMs": 19767,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " rests",
+     "startMs": 19779,
+     "endMs": 20103,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " on",
+     "startMs": 20115,
+     "endMs": 20224,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " contractual",
+     "startMs": 20236,
+     "endMs": 20921,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 20933,
+     "endMs": 21029,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " job-order",
+     "startMs": 21041,
+     "endMs": 21534,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " personnel.",
+     "startMs": 21546,
+     "endMs": 22267,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 1378
+  },
+  {
+   "id": "overview",
+   "title": "Accomplishments at a Glance",
+   "chapter": "Overview",
+   "hash": "fd4a25df7c43",
+   "audio": "voiceover/overview.mp3",
+   "durationMs": 13968,
+   "frames": 456,
+   "captions": [
+    {
+     "text": "In",
+     "startMs": 584,
+     "endMs": 704,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " ten",
+     "startMs": 716,
+     "endMs": 945,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " months,",
+     "startMs": 957,
+     "endMs": 1257,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 7",
+     "startMs": 1293,
+     "endMs": 1606,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " programs,",
+     "startMs": 1618,
+     "endMs": 2159,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 16",
+     "startMs": 2183,
+     "endMs": 2651,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " projects,",
+     "startMs": 2663,
+     "endMs": 3252,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 3529,
+     "endMs": 3661,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " more",
+     "startMs": 3673,
+     "endMs": 3877,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " than",
+     "startMs": 3889,
+     "endMs": 4022,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 98",
+     "startMs": 4034,
+     "endMs": 4502,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " activities",
+     "startMs": 4514,
+     "endMs": 5115,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " reached",
+     "startMs": 5127,
+     "endMs": 5404,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 22,513",
+     "startMs": 5416,
+     "endMs": 7291,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " clients.",
+     "startMs": 7303,
+     "endMs": 7916,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Compared",
+     "startMs": 8312,
+     "endMs": 8721,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 8733,
+     "endMs": 8853,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 2025,",
+     "startMs": 8865,
+     "endMs": 9899,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " nearly",
+     "startMs": 9923,
+     "endMs": 10248,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " every",
+     "startMs": 10260,
+     "endMs": 10524,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " program",
+     "startMs": 10536,
+     "endMs": 10993,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " grew,",
+     "startMs": 11005,
+     "endMs": 11317,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 11341,
+     "endMs": 11498,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " some",
+     "startMs": 11510,
+     "endMs": 11714,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " more",
+     "startMs": 11726,
+     "endMs": 11918,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " than",
+     "startMs": 11930,
+     "endMs": 12062,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " doubled.",
+     "startMs": 12074,
+     "endMs": 12579,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Let's",
+     "startMs": 12952,
+     "endMs": 13192,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " look",
+     "startMs": 13204,
+     "endMs": 13409,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " at",
+     "startMs": 13421,
+     "endMs": 13529,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " each",
+     "startMs": 13541,
+     "endMs": 13757,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " one.",
+     "startMs": 13769,
+     "endMs": 14118,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 2063
+  },
+  {
+   "id": "pave",
+   "title": "PAVE",
+   "chapter": "PAVE",
+   "hash": "1886b3048703",
+   "audio": "voiceover/pave.mp3",
+   "durationMs": 22848,
+   "frames": 722,
+   "captions": [
+    {
+     "text": "PAVE,",
+     "startMs": 584,
+     "endMs": 981,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 1161,
+     "endMs": 1257,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Program",
+     "startMs": 1269,
+     "endMs": 1678,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Against",
+     "startMs": 1690,
+     "endMs": 2062,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Abuse,",
+     "startMs": 2074,
+     "endMs": 2543,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Violence",
+     "startMs": 2579,
+     "endMs": 3072,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 3084,
+     "endMs": 3180,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Exploitation,",
+     "startMs": 3192,
+     "endMs": 4046,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " protects",
+     "startMs": 4454,
+     "endMs": 4875,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " women",
+     "startMs": 4887,
+     "endMs": 5175,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 5188,
+     "endMs": 5296,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " children",
+     "startMs": 5308,
+     "endMs": 5728,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " from",
+     "startMs": 5740,
+     "endMs": 5909,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " violence",
+     "startMs": 5921,
+     "endMs": 6389,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " through",
+     "startMs": 6401,
+     "endMs": 6534,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " case",
+     "startMs": 6546,
+     "endMs": 6846,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " management,",
+     "startMs": 6858,
+     "endMs": 7375,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " psychosocial",
+     "startMs": 7832,
+     "endMs": 8517,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " support,",
+     "startMs": 8529,
+     "endMs": 9034,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 9274,
+     "endMs": 9394,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " community",
+     "startMs": 9406,
+     "endMs": 9899,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " campaigns",
+     "startMs": 9911,
+     "endMs": 10464,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " like",
+     "startMs": 10476,
+     "endMs": 10644,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Stop",
+     "startMs": 10656,
+     "endMs": 10945,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Karahasan.",
+     "startMs": 10957,
+     "endMs": 11678,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Clients",
+     "startMs": 12062,
+     "endMs": 12423,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " served",
+     "startMs": 12435,
+     "endMs": 12699,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " jumped",
+     "startMs": 12712,
+     "endMs": 12976,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " from",
+     "startMs": 12988,
+     "endMs": 13180,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 1,308",
+     "startMs": 13192,
+     "endMs": 14550,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 14562,
+     "endMs": 14671,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 3,409,",
+     "startMs": 14683,
+     "endMs": 16293,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 16894,
+     "endMs": 16954,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 160",
+     "startMs": 16966,
+     "endMs": 18252,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent",
+     "startMs": 18252,
+     "endMs": 18264,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " increase.",
+     "startMs": 18264,
+     "endMs": 18901,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " More",
+     "startMs": 19286,
+     "endMs": 19514,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " survivors",
+     "startMs": 19526,
+     "endMs": 20115,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " are",
+     "startMs": 20127,
+     "endMs": 20212,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " being",
+     "startMs": 20224,
+     "endMs": 20488,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " reached,",
+     "startMs": 20500,
+     "endMs": 20969,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 21149,
+     "endMs": 21305,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " more",
+     "startMs": 21317,
+     "endMs": 21522,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " communities",
+     "startMs": 21534,
+     "endMs": 22123,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " are",
+     "startMs": 22135,
+     "endMs": 22207,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " speaking",
+     "startMs": 22219,
+     "endMs": 22663,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " up.",
+     "startMs": 22676,
+     "endMs": 23000,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 2504
+  },
+  {
+   "id": "hero",
+   "title": "HERO",
+   "chapter": "HERO",
+   "hash": "8385c06679ad",
+   "audio": "voiceover/hero.mp3",
+   "durationMs": 17616,
+   "frames": 565,
+   "captions": [
+    {
+     "text": "HERO,",
+     "startMs": 584,
+     "endMs": 1017,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Helping",
+     "startMs": 1341,
+     "endMs": 1702,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Every",
+     "startMs": 1714,
+     "endMs": 1978,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Solo",
+     "startMs": 1990,
+     "endMs": 2303,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Parent",
+     "startMs": 2315,
+     "endMs": 2639,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 2651,
+     "endMs": 2820,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Resources",
+     "startMs": 2832,
+     "endMs": 3397,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 3409,
+     "endMs": 3505,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Opportunities,",
+     "startMs": 3517,
+     "endMs": 4310,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " registers",
+     "startMs": 4743,
+     "endMs": 5248,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " solo",
+     "startMs": 5260,
+     "endMs": 5548,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " parents,",
+     "startMs": 5560,
+     "endMs": 6029,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " issues",
+     "startMs": 6413,
+     "endMs": 6774,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " their",
+     "startMs": 6786,
+     "endMs": 6966,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " IDs,",
+     "startMs": 6978,
+     "endMs": 7531,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 7796,
+     "endMs": 7952,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " connects",
+     "startMs": 7964,
+     "endMs": 8337,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " them",
+     "startMs": 8349,
+     "endMs": 8493,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 8505,
+     "endMs": 8613,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 8625,
+     "endMs": 8721,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " benefits",
+     "startMs": 8733,
+     "endMs": 9262,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 9274,
+     "endMs": 9358,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 9370,
+     "endMs": 9454,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Expanded",
+     "startMs": 9466,
+     "endMs": 10019,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Solo",
+     "startMs": 10031,
+     "endMs": 10356,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Parents",
+     "startMs": 10368,
+     "endMs": 10752,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Welfare",
+     "startMs": 10764,
+     "endMs": 11221,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Act.",
+     "startMs": 11233,
+     "endMs": 11618,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 903",
+     "startMs": 12002,
+     "endMs": 12808,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " solo",
+     "startMs": 12820,
+     "endMs": 13156,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " parents",
+     "startMs": 13168,
+     "endMs": 13577,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " were",
+     "startMs": 13589,
+     "endMs": 13709,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " served",
+     "startMs": 13721,
+     "endMs": 14022,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " this",
+     "startMs": 14034,
+     "endMs": 14250,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " year,",
+     "startMs": 14262,
+     "endMs": 14526,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " up",
+     "startMs": 15091,
+     "endMs": 15212,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 22",
+     "startMs": 15224,
+     "endMs": 16149,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent",
+     "startMs": 16149,
+     "endMs": 16161,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " from",
+     "startMs": 16161,
+     "endMs": 16353,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 737.",
+     "startMs": 16365,
+     "endMs": 17772,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 3211
+  },
+  {
+   "id": "golden-life",
+   "title": "Golden Life",
+   "chapter": "Golden Life",
+   "hash": "f737876898c2",
+   "audio": "voiceover/golden-life.mp3",
+   "durationMs": 15648,
+   "frames": 506,
+   "captions": [
+    {
+     "text": "Golden",
+     "startMs": 584,
+     "endMs": 921,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Life",
+     "startMs": 933,
+     "endMs": 1185,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 1197,
+     "endMs": 1329,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " our",
+     "startMs": 1341,
+     "endMs": 1437,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " program",
+     "startMs": 1450,
+     "endMs": 1906,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " for",
+     "startMs": 1918,
+     "endMs": 2062,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " senior",
+     "startMs": 2074,
+     "endMs": 2423,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " citizens,",
+     "startMs": 2435,
+     "endMs": 3036,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " delivering",
+     "startMs": 3337,
+     "endMs": 3829,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " assistance,",
+     "startMs": 3841,
+     "endMs": 4490,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " benefits,",
+     "startMs": 4875,
+     "endMs": 5428,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 5452,
+     "endMs": 5620,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " recognition",
+     "startMs": 5632,
+     "endMs": 6329,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 6341,
+     "endMs": 6474,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " older",
+     "startMs": 6486,
+     "endMs": 6762,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Romblomanons.",
+     "startMs": 6774,
+     "endMs": 7663,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Reach",
+     "startMs": 8048,
+     "endMs": 8312,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " nearly",
+     "startMs": 8324,
+     "endMs": 8661,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " doubled,",
+     "startMs": 8673,
+     "endMs": 9082,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " from",
+     "startMs": 9106,
+     "endMs": 9298,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 1,788",
+     "startMs": 9310,
+     "endMs": 11101,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 11113,
+     "endMs": 11233,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 3,374",
+     "startMs": 11245,
+     "endMs": 13108,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " seniors,",
+     "startMs": 13120,
+     "endMs": 13661,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " an",
+     "startMs": 14130,
+     "endMs": 14286,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 88",
+     "startMs": 14298,
+     "endMs": 15139,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent",
+     "startMs": 15139,
+     "endMs": 15151,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " increase.",
+     "startMs": 15151,
+     "endMs": 15800,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 3761
+  },
+  {
+   "id": "aics",
+   "title": "AICS",
+   "chapter": "AICS",
+   "hash": "d81405e7a7d9",
+   "audio": "voiceover/aics.mp3",
+   "durationMs": 18360,
+   "frames": 587,
+   "captions": [
+    {
+     "text": "AICS,",
+     "startMs": 584,
+     "endMs": 1401,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Assistance",
+     "startMs": 1642,
+     "endMs": 2159,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 2171,
+     "endMs": 2279,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Individuals",
+     "startMs": 2291,
+     "endMs": 2940,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 2952,
+     "endMs": 3048,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Crisis",
+     "startMs": 3060,
+     "endMs": 3481,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Situations,",
+     "startMs": 3493,
+     "endMs": 4226,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 4635,
+     "endMs": 4755,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 4767,
+     "endMs": 4863,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " province's",
+     "startMs": 4875,
+     "endMs": 5416,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " frontline",
+     "startMs": 5428,
+     "endMs": 5861,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " for",
+     "startMs": 5873,
+     "endMs": 6029,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " emergencies:",
+     "startMs": 6041,
+     "endMs": 6858,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " medical,",
+     "startMs": 7303,
+     "endMs": 7844,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " burial,",
+     "startMs": 8168,
+     "endMs": 8613,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " transportation,",
+     "startMs": 8637,
+     "endMs": 9574,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " food,",
+     "startMs": 9971,
+     "endMs": 10320,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 10476,
+     "endMs": 10656,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " educational",
+     "startMs": 10668,
+     "endMs": 11329,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " assistance.",
+     "startMs": 11341,
+     "endMs": 12074,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 3,950",
+     "startMs": 12459,
+     "endMs": 13998,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " individuals",
+     "startMs": 14010,
+     "endMs": 14659,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 14671,
+     "endMs": 14767,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " families",
+     "startMs": 14779,
+     "endMs": 15284,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " received",
+     "startMs": 15296,
+     "endMs": 15668,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " help,",
+     "startMs": 15680,
+     "endMs": 16029,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 22",
+     "startMs": 16534,
+     "endMs": 17423,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent",
+     "startMs": 17423,
+     "endMs": 17435,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " more",
+     "startMs": 17435,
+     "endMs": 17627,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " than",
+     "startMs": 17639,
+     "endMs": 17784,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " last",
+     "startMs": 17796,
+     "endMs": 18132,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " year.",
+     "startMs": 18144,
+     "endMs": 18505,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 4252
+  },
+  {
+   "id": "rhap",
+   "title": "RHAP",
+   "chapter": "RHAP",
+   "hash": "62239ad1a382",
+   "audio": "voiceover/rhap.mp3",
+   "durationMs": 18264,
+   "frames": 584,
+   "captions": [
+    {
+     "text": "The",
+     "startMs": 584,
+     "endMs": 656,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Romblon",
+     "startMs": 668,
+     "endMs": 1137,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Health",
+     "startMs": 1149,
+     "endMs": 1389,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Access",
+     "startMs": 1401,
+     "endMs": 1810,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Program",
+     "startMs": 1822,
+     "endMs": 2291,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 2303,
+     "endMs": 2447,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " our",
+     "startMs": 2459,
+     "endMs": 2567,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " largest",
+     "startMs": 2579,
+     "endMs": 3024,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " program",
+     "startMs": 3036,
+     "endMs": 3433,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " by",
+     "startMs": 3445,
+     "endMs": 3601,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " reach.",
+     "startMs": 3613,
+     "endMs": 4106,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " It",
+     "startMs": 4490,
+     "endMs": 4562,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " helps",
+     "startMs": 4574,
+     "endMs": 4863,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " residents",
+     "startMs": 4875,
+     "endMs": 5368,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 5380,
+     "endMs": 5500,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " hospital",
+     "startMs": 5512,
+     "endMs": 6005,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " bills,",
+     "startMs": 6017,
+     "endMs": 6425,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " medicines,",
+     "startMs": 6606,
+     "endMs": 7171,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 7195,
+     "endMs": 7351,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " referrals,",
+     "startMs": 7363,
+     "endMs": 7964,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " so",
+     "startMs": 8409,
+     "endMs": 8517,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " that",
+     "startMs": 8529,
+     "endMs": 8697,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " no",
+     "startMs": 8709,
+     "endMs": 8913,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " family",
+     "startMs": 8926,
+     "endMs": 9322,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " has",
+     "startMs": 9334,
+     "endMs": 9538,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 9550,
+     "endMs": 9647,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " choose",
+     "startMs": 9659,
+     "endMs": 9935,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " between",
+     "startMs": 9947,
+     "endMs": 10296,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " health",
+     "startMs": 10308,
+     "endMs": 10584,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 10596,
+     "endMs": 10704,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " survival.",
+     "startMs": 10716,
+     "endMs": 11365,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 9,329",
+     "startMs": 11750,
+     "endMs": 13469,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " clients",
+     "startMs": 13481,
+     "endMs": 13913,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " were",
+     "startMs": 13926,
+     "endMs": 14058,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " assisted,",
+     "startMs": 14070,
+     "endMs": 14635,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " up",
+     "startMs": 15127,
+     "endMs": 15260,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 48",
+     "startMs": 15272,
+     "endMs": 16185,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent",
+     "startMs": 16185,
+     "endMs": 16197,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " from",
+     "startMs": 16197,
+     "endMs": 16377,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 6,293.",
+     "startMs": 16389,
+     "endMs": 18409,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 4824
+  },
+  {
+   "id": "youth-sdec",
+   "title": "Youth / SDEC",
+   "chapter": "Youth / SDEC",
+   "hash": "343b02c6d7b4",
+   "audio": "voiceover/youth-sdec.mp3",
+   "durationMs": 21648,
+   "frames": 686,
+   "captions": [
+    {
+     "text": "Our",
+     "startMs": 572,
+     "endMs": 728,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Youth",
+     "startMs": 740,
+     "endMs": 1005,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 1017,
+     "endMs": 1113,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Special",
+     "startMs": 1125,
+     "endMs": 1522,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Drug",
+     "startMs": 1534,
+     "endMs": 1786,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Education",
+     "startMs": 1798,
+     "endMs": 2387,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Center",
+     "startMs": 2399,
+     "endMs": 2675,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " programs",
+     "startMs": 2688,
+     "endMs": 3216,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " guide",
+     "startMs": 3228,
+     "endMs": 3481,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " young",
+     "startMs": 3493,
+     "endMs": 3709,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " people",
+     "startMs": 3721,
+     "endMs": 4046,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " through",
+     "startMs": 4058,
+     "endMs": 4226,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " prevention",
+     "startMs": 4238,
+     "endMs": 4755,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " education,",
+     "startMs": 4767,
+     "endMs": 5476,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " counseling,",
+     "startMs": 5933,
+     "endMs": 6522,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 6546,
+     "endMs": 6666,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " development",
+     "startMs": 6678,
+     "endMs": 7207,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " activities.",
+     "startMs": 7219,
+     "endMs": 7988,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Reach",
+     "startMs": 8373,
+     "endMs": 8649,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " declined",
+     "startMs": 8661,
+     "endMs": 9118,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 17.7",
+     "startMs": 9130,
+     "endMs": 10764,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent,",
+     "startMs": 10764,
+     "endMs": 11197,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " from",
+     "startMs": 11197,
+     "endMs": 11389,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 1,425",
+     "startMs": 11401,
+     "endMs": 13349,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 13361,
+     "endMs": 13481,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 1,173.",
+     "startMs": 13493,
+     "endMs": 15572,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " We",
+     "startMs": 15957,
+     "endMs": 16065,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " treat",
+     "startMs": 16077,
+     "endMs": 16353,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " this",
+     "startMs": 16365,
+     "endMs": 16558,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " honestly:",
+     "startMs": 16570,
+     "endMs": 17159,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " it",
+     "startMs": 17796,
+     "endMs": 17916,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " signals",
+     "startMs": 17928,
+     "endMs": 18349,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " where",
+     "startMs": 18361,
+     "endMs": 18517,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " staffing",
+     "startMs": 18529,
+     "endMs": 18998,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 19010,
+     "endMs": 19130,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " outreach",
+     "startMs": 19142,
+     "endMs": 19635,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " must",
+     "startMs": 19647,
+     "endMs": 19887,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " be",
+     "startMs": 19899,
+     "endMs": 20007,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " strengthened",
+     "startMs": 20019,
+     "endMs": 20572,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 20584,
+     "endMs": 21798,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 2027.",
+     "startMs": 21798,
+     "endMs": 22048,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 5393
+  },
+  {
+   "id": "cdc",
+   "title": "Child Development Centers",
+   "chapter": "Child Development",
+   "hash": "d4a16b1e8060",
+   "audio": "voiceover/cdc.mp3",
+   "durationMs": 11376,
+   "frames": 378,
+   "captions": [
+    {
+     "text": "Child",
+     "startMs": 584,
+     "endMs": 873,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Development",
+     "startMs": 885,
+     "endMs": 1413,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Centers",
+     "startMs": 1426,
+     "endMs": 1846,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " are",
+     "startMs": 1858,
+     "endMs": 1978,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " where",
+     "startMs": 1990,
+     "endMs": 2195,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " early",
+     "startMs": 2207,
+     "endMs": 2483,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " learning",
+     "startMs": 2495,
+     "endMs": 2844,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " begins.",
+     "startMs": 2856,
+     "endMs": 3517,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 306",
+     "startMs": 3901,
+     "endMs": 4683,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " centers",
+     "startMs": 4695,
+     "endMs": 5055,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 5067,
+     "endMs": 5175,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " workers",
+     "startMs": 5188,
+     "endMs": 5608,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " were",
+     "startMs": 5620,
+     "endMs": 5728,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " supported",
+     "startMs": 5740,
+     "endMs": 6233,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " this",
+     "startMs": 6245,
+     "endMs": 6450,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " year,",
+     "startMs": 6462,
+     "endMs": 6702,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 7195,
+     "endMs": 7291,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " same",
+     "startMs": 7303,
+     "endMs": 7567,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " as",
+     "startMs": 7579,
+     "endMs": 7712,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " last",
+     "startMs": 7724,
+     "endMs": 8072,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " year,",
+     "startMs": 8084,
+     "endMs": 8337,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 8865,
+     "endMs": 8901,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " steady",
+     "startMs": 8913,
+     "endMs": 9226,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " foundation",
+     "startMs": 9238,
+     "endMs": 9851,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " for",
+     "startMs": 9863,
+     "endMs": 10031,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Romblon's",
+     "startMs": 10043,
+     "endMs": 10584,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " youngest",
+     "startMs": 10596,
+     "endMs": 10993,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " learners.",
+     "startMs": 11005,
+     "endMs": 11522,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 6064
+  },
+  {
+   "id": "cnsp",
+   "title": "CNSP",
+   "chapter": "CNSP",
+   "hash": "6bbb286a9471",
+   "audio": "voiceover/cnsp.mp3",
+   "durationMs": 17448,
+   "frames": 560,
+   "captions": [
+    {
+     "text": "Children",
+     "startMs": 572,
+     "endMs": 969,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 981,
+     "endMs": 1089,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Need",
+     "startMs": 1101,
+     "endMs": 1269,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 1281,
+     "endMs": 1365,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Special",
+     "startMs": 1377,
+     "endMs": 1762,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Protection",
+     "startMs": 1774,
+     "endMs": 2327,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " are",
+     "startMs": 2339,
+     "endMs": 2459,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " those",
+     "startMs": 2471,
+     "endMs": 2736,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " who",
+     "startMs": 2748,
+     "endMs": 2844,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " are",
+     "startMs": 2856,
+     "endMs": 2976,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " abandoned,",
+     "startMs": 2988,
+     "endMs": 3541,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " neglected,",
+     "startMs": 3913,
+     "endMs": 4562,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " or",
+     "startMs": 4719,
+     "endMs": 4863,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " abused.",
+     "startMs": 4875,
+     "endMs": 5500,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 56",
+     "startMs": 5873,
+     "endMs": 6486,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " children",
+     "startMs": 6498,
+     "endMs": 6894,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " were",
+     "startMs": 6906,
+     "endMs": 7038,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " placed",
+     "startMs": 7050,
+     "endMs": 7435,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " under",
+     "startMs": 7447,
+     "endMs": 7651,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " protective",
+     "startMs": 7663,
+     "endMs": 8180,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " case",
+     "startMs": 8192,
+     "endMs": 8469,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " management",
+     "startMs": 8481,
+     "endMs": 8998,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " this",
+     "startMs": 9010,
+     "endMs": 9226,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " year,",
+     "startMs": 9238,
+     "endMs": 9514,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " up",
+     "startMs": 10055,
+     "endMs": 10200,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " from",
+     "startMs": 10212,
+     "endMs": 10392,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 21.",
+     "startMs": 10404,
+     "endMs": 11125,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " That",
+     "startMs": 11510,
+     "endMs": 11690,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 11702,
+     "endMs": 11810,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 11822,
+     "endMs": 11894,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 167",
+     "startMs": 11906,
+     "endMs": 13541,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent",
+     "startMs": 13541,
+     "endMs": 13553,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " increase,",
+     "startMs": 13553,
+     "endMs": 14130,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " meaning",
+     "startMs": 14599,
+     "endMs": 14887,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " more",
+     "startMs": 14899,
+     "endMs": 15091,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " vulnerable",
+     "startMs": 15103,
+     "endMs": 15632,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " children",
+     "startMs": 15644,
+     "endMs": 16089,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " are",
+     "startMs": 16101,
+     "endMs": 16209,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " being",
+     "startMs": 16221,
+     "endMs": 16462,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " found",
+     "startMs": 16474,
+     "endMs": 16834,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 16846,
+     "endMs": 16942,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " protected.",
+     "startMs": 16954,
+     "endMs": 17591,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 6427
+  },
+  {
+   "id": "cicl",
+   "title": "CICL",
+   "chapter": "CICL",
+   "hash": "c3dc9f0f8b9d",
+   "audio": "voiceover/cicl.mp3",
+   "durationMs": 15168,
+   "frames": 492,
+   "captions": [
+    {
+     "text": "For",
+     "startMs": 584,
+     "endMs": 728,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Children",
+     "startMs": 740,
+     "endMs": 1125,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 1137,
+     "endMs": 1245,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Conflict",
+     "startMs": 1257,
+     "endMs": 1762,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 1774,
+     "endMs": 1870,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 1882,
+     "endMs": 2002,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Law,",
+     "startMs": 2014,
+     "endMs": 2351,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 2832,
+     "endMs": 2940,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " office",
+     "startMs": 2952,
+     "endMs": 3276,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " provides",
+     "startMs": 3288,
+     "endMs": 3745,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " diversion,",
+     "startMs": 3757,
+     "endMs": 4334,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " rehabilitation,",
+     "startMs": 4635,
+     "endMs": 5500,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 5524,
+     "endMs": 5680,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " reintegration",
+     "startMs": 5692,
+     "endMs": 6474,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " under",
+     "startMs": 6486,
+     "endMs": 6678,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 6690,
+     "endMs": 6786,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Juvenile",
+     "startMs": 6798,
+     "endMs": 7291,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Justice",
+     "startMs": 7303,
+     "endMs": 7772,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 7784,
+     "endMs": 7964,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Welfare",
+     "startMs": 7976,
+     "endMs": 8421,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Act.",
+     "startMs": 8433,
+     "endMs": 8817,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 13",
+     "startMs": 9214,
+     "endMs": 9611,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " children",
+     "startMs": 9623,
+     "endMs": 9995,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " were",
+     "startMs": 10007,
+     "endMs": 10127,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " served,",
+     "startMs": 10139,
+     "endMs": 10596,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " compared",
+     "startMs": 10812,
+     "endMs": 11233,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 11245,
+     "endMs": 11401,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 9",
+     "startMs": 11413,
+     "endMs": 11702,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " last",
+     "startMs": 11714,
+     "endMs": 12038,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " year,",
+     "startMs": 12050,
+     "endMs": 12315,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " each",
+     "startMs": 12880,
+     "endMs": 13084,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " given",
+     "startMs": 13096,
+     "endMs": 13361,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 13373,
+     "endMs": 13433,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " second",
+     "startMs": 13445,
+     "endMs": 13829,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " chance",
+     "startMs": 13841,
+     "endMs": 14142,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " instead",
+     "startMs": 14154,
+     "endMs": 14490,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 14502,
+     "endMs": 14575,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 14587,
+     "endMs": 14647,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " sentence.",
+     "startMs": 14659,
+     "endMs": 15308,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 6972
+  },
+  {
+   "id": "systems",
+   "title": "Centers, Accreditation and Partners",
+   "chapter": "Systems",
+   "hash": "ef76242df607",
+   "audio": "voiceover/systems.mp3",
+   "durationMs": 23976,
+   "frames": 756,
+   "captions": [
+    {
+     "text": "Beyond",
+     "startMs": 596,
+     "endMs": 945,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " direct",
+     "startMs": 957,
+     "endMs": 1281,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " services,",
+     "startMs": 1293,
+     "endMs": 1894,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 1918,
+     "endMs": 2002,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " office",
+     "startMs": 2014,
+     "endMs": 2363,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " strengthened",
+     "startMs": 2375,
+     "endMs": 2832,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 2844,
+     "endMs": 2904,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " system",
+     "startMs": 2916,
+     "endMs": 3312,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " itself.",
+     "startMs": 3324,
+     "endMs": 3901,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 76",
+     "startMs": 4286,
+     "endMs": 4971,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Child",
+     "startMs": 4983,
+     "endMs": 5260,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Development",
+     "startMs": 5272,
+     "endMs": 5764,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Centers",
+     "startMs": 5776,
+     "endMs": 6197,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " were",
+     "startMs": 6209,
+     "endMs": 6353,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " assessed",
+     "startMs": 6365,
+     "endMs": 6822,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 6834,
+     "endMs": 6942,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " endorsed,",
+     "startMs": 6954,
+     "endMs": 7531,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 7928,
+     "endMs": 8048,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 78",
+     "startMs": 8060,
+     "endMs": 8661,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " were",
+     "startMs": 8673,
+     "endMs": 8817,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " accredited",
+     "startMs": 8829,
+     "endMs": 9346,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 9358,
+     "endMs": 10512,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 2026,",
+     "startMs": 10512,
+     "endMs": 10957,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " bringing",
+     "startMs": 10957,
+     "endMs": 11269,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 11281,
+     "endMs": 11365,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " province",
+     "startMs": 11377,
+     "endMs": 11822,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 11834,
+     "endMs": 11954,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 209",
+     "startMs": 11966,
+     "endMs": 12748,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " accredited",
+     "startMs": 12760,
+     "endMs": 13288,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " centers",
+     "startMs": 13300,
+     "endMs": 13757,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " out",
+     "startMs": 13769,
+     "endMs": 13914,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 13926,
+     "endMs": 14010,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 306.",
+     "startMs": 14022,
+     "endMs": 15067,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Bahay",
+     "startMs": 15452,
+     "endMs": 15716,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Pag-asa",
+     "startMs": 15728,
+     "endMs": 16426,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 16438,
+     "endMs": 16546,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 16558,
+     "endMs": 16642,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Productivity",
+     "startMs": 16654,
+     "endMs": 17315,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Skills",
+     "startMs": 17327,
+     "endMs": 17687,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 17700,
+     "endMs": 17784,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Capability",
+     "startMs": 17796,
+     "endMs": 18421,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Building",
+     "startMs": 18433,
+     "endMs": 18769,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " center",
+     "startMs": 18781,
+     "endMs": 19130,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " continued",
+     "startMs": 19142,
+     "endMs": 19659,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " operating,",
+     "startMs": 19671,
+     "endMs": 20272,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 20584,
+     "endMs": 20776,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " partners",
+     "startMs": 20788,
+     "endMs": 21245,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " like",
+     "startMs": 21257,
+     "endMs": 21425,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 21438,
+     "endMs": 21510,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Ruel",
+     "startMs": 21522,
+     "endMs": 21786,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Foundation",
+     "startMs": 21798,
+     "endMs": 22423,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 22435,
+     "endMs": 22555,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Romblon",
+     "startMs": 22567,
+     "endMs": 23036,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " State",
+     "startMs": 23048,
+     "endMs": 23349,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " University.",
+     "startMs": 23361,
+     "endMs": 24130,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 7449
+  },
+  {
+   "id": "budget",
+   "title": "Budget Utilization",
+   "chapter": "Budget",
+   "hash": "8d67228aa5b5",
+   "audio": "voiceover/budget.mp3",
+   "durationMs": 21144,
+   "frames": 671,
+   "captions": [
+    {
+     "text": "Resources",
+     "startMs": 584,
+     "endMs": 1221,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " were",
+     "startMs": 1233,
+     "endMs": 1365,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " put",
+     "startMs": 1377,
+     "endMs": 1582,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " to",
+     "startMs": 1594,
+     "endMs": 1726,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " work.",
+     "startMs": 1738,
+     "endMs": 2231,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Of",
+     "startMs": 2615,
+     "endMs": 2724,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 44.78",
+     "startMs": 2736,
+     "endMs": 4082,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " million",
+     "startMs": 4094,
+     "endMs": 4442,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " pesos",
+     "startMs": 4454,
+     "endMs": 4947,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " across",
+     "startMs": 4959,
+     "endMs": 5332,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " three",
+     "startMs": 5344,
+     "endMs": 5572,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " key",
+     "startMs": 5584,
+     "endMs": 5788,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " funds,",
+     "startMs": 5800,
+     "endMs": 6245,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 33.76",
+     "startMs": 6738,
+     "endMs": 8180,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " million",
+     "startMs": 8192,
+     "endMs": 8577,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " was",
+     "startMs": 8589,
+     "endMs": 8745,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " utilized.",
+     "startMs": 8757,
+     "endMs": 9466,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " The",
+     "startMs": 9851,
+     "endMs": 9935,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " one",
+     "startMs": 9947,
+     "endMs": 10139,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent",
+     "startMs": 10151,
+     "endMs": 10524,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Local",
+     "startMs": 10536,
+     "endMs": 10837,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Council",
+     "startMs": 10849,
+     "endMs": 11257,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " for",
+     "startMs": 11269,
+     "endMs": 11389,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 11401,
+     "endMs": 11486,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Protection",
+     "startMs": 11498,
+     "endMs": 11978,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 11990,
+     "endMs": 12074,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Children",
+     "startMs": 12087,
+     "endMs": 12471,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " fund",
+     "startMs": 12483,
+     "endMs": 12856,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " led",
+     "startMs": 12868,
+     "endMs": 13048,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " at",
+     "startMs": 13060,
+     "endMs": 13192,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 85",
+     "startMs": 13204,
+     "endMs": 14166,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent,",
+     "startMs": 14166,
+     "endMs": 14623,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " followed",
+     "startMs": 14623,
+     "endMs": 14947,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " by",
+     "startMs": 14959,
+     "endMs": 15091,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 15103,
+     "endMs": 15200,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Senior",
+     "startMs": 15212,
+     "endMs": 15572,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Citizen",
+     "startMs": 15584,
+     "endMs": 16017,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 16029,
+     "endMs": 16125,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " PWD",
+     "startMs": 16137,
+     "endMs": 16762,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " fund",
+     "startMs": 16774,
+     "endMs": 17111,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " at",
+     "startMs": 17123,
+     "endMs": 17243,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 80",
+     "startMs": 17255,
+     "endMs": 17964,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent,",
+     "startMs": 17964,
+     "endMs": 18445,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 18445,
+     "endMs": 18541,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 18553,
+     "endMs": 18649,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Gender",
+     "startMs": 18661,
+     "endMs": 18998,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 19010,
+     "endMs": 19094,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Development",
+     "startMs": 19106,
+     "endMs": 19611,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " fund",
+     "startMs": 19623,
+     "endMs": 19899,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " at",
+     "startMs": 19911,
+     "endMs": 20043,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 67",
+     "startMs": 20055,
+     "endMs": 21293,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " percent.",
+     "startMs": 21293,
+     "endMs": 21543,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 8190
+  },
+  {
+   "id": "challenges",
+   "title": "Issues, Gaps and Challenges",
+   "chapter": "Challenges",
+   "hash": "14d2ff34a475",
+   "audio": "voiceover/challenges.mp3",
+   "durationMs": 24576,
+   "frames": 774,
+   "captions": [
+    {
+     "text": "Progress",
+     "startMs": 584,
+     "endMs": 1005,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " comes",
+     "startMs": 1017,
+     "endMs": 1281,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 1293,
+     "endMs": 1438,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " challenges,",
+     "startMs": 1450,
+     "endMs": 2086,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " grouped",
+     "startMs": 2111,
+     "endMs": 2435,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " into",
+     "startMs": 2447,
+     "endMs": 2651,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " three",
+     "startMs": 2663,
+     "endMs": 2904,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " gaps.",
+     "startMs": 2916,
+     "endMs": 3481,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " First,",
+     "startMs": 3853,
+     "endMs": 4262,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " workforce",
+     "startMs": 4286,
+     "endMs": 4779,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " capacity:",
+     "startMs": 4791,
+     "endMs": 5440,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " only",
+     "startMs": 6041,
+     "endMs": 6305,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 9",
+     "startMs": 6317,
+     "endMs": 6558,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 6570,
+     "endMs": 6654,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 67",
+     "startMs": 6666,
+     "endMs": 7327,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " plantilla",
+     "startMs": 7339,
+     "endMs": 7832,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " positions",
+     "startMs": 7844,
+     "endMs": 8397,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " are",
+     "startMs": 8409,
+     "endMs": 8529,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " filled.",
+     "startMs": 8541,
+     "endMs": 9022,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Second,",
+     "startMs": 9406,
+     "endMs": 9839,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " facility",
+     "startMs": 9851,
+     "endMs": 10356,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " readiness:",
+     "startMs": 10368,
+     "endMs": 10933,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " leaking",
+     "startMs": 11426,
+     "endMs": 11810,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " roofs,",
+     "startMs": 11822,
+     "endMs": 12195,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " damaged",
+     "startMs": 12447,
+     "endMs": 12880,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " tiles,",
+     "startMs": 12892,
+     "endMs": 13300,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 13324,
+     "endMs": 13517,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " unfinished",
+     "startMs": 13529,
+     "endMs": 14070,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " works",
+     "startMs": 14082,
+     "endMs": 14358,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " delay",
+     "startMs": 14370,
+     "endMs": 14647,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " center",
+     "startMs": 14659,
+     "endMs": 15019,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " operations.",
+     "startMs": 15031,
+     "endMs": 15837,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Third,",
+     "startMs": 16221,
+     "endMs": 16582,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " funding",
+     "startMs": 16606,
+     "endMs": 16954,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " adequacy:",
+     "startMs": 16966,
+     "endMs": 17579,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " limited",
+     "startMs": 18168,
+     "endMs": 18541,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " AICS",
+     "startMs": 18553,
+     "endMs": 19238,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 19250,
+     "endMs": 19358,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " hospital",
+     "startMs": 19370,
+     "endMs": 19887,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " assistance",
+     "startMs": 19899,
+     "endMs": 20464,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " funds",
+     "startMs": 20476,
+     "endMs": 20776,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " leave",
+     "startMs": 20788,
+     "endMs": 21017,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " client",
+     "startMs": 21029,
+     "endMs": 21389,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " requests",
+     "startMs": 21401,
+     "endMs": 21846,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " pending.",
+     "startMs": 21858,
+     "endMs": 22339,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Each",
+     "startMs": 22724,
+     "endMs": 22940,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " gap",
+     "startMs": 22952,
+     "endMs": 23204,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " has",
+     "startMs": 23216,
+     "endMs": 23397,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 23409,
+     "endMs": 23469,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " priority",
+     "startMs": 23481,
+     "endMs": 24010,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " response.",
+     "startMs": 24022,
+     "endMs": 24731,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 8846
+  },
+  {
+   "id": "targets",
+   "title": "2027 Targets and Priorities",
+   "chapter": "2027 Targets",
+   "hash": "945759b0ada0",
+   "audio": "voiceover/targets.mp3",
+   "durationMs": 20784,
+   "frames": 660,
+   "captions": [
+    {
+     "text": "For",
+     "startMs": 572,
+     "endMs": 837,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 2027,",
+     "startMs": 849,
+     "endMs": 1870,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 1894,
+     "endMs": 1990,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " priorities",
+     "startMs": 2002,
+     "endMs": 2639,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " are",
+     "startMs": 2651,
+     "endMs": 2760,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " clear.",
+     "startMs": 2772,
+     "endMs": 3264,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Fully",
+     "startMs": 3637,
+     "endMs": 3974,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " operate",
+     "startMs": 3986,
+     "endMs": 4418,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 4430,
+     "endMs": 4526,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Bahay",
+     "startMs": 4538,
+     "endMs": 4875,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Pag-asa",
+     "startMs": 4887,
+     "endMs": 5440,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Youth",
+     "startMs": 5452,
+     "endMs": 5728,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Center.",
+     "startMs": 5740,
+     "endMs": 6257,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Operationalize",
+     "startMs": 6642,
+     "endMs": 7519,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 7531,
+     "endMs": 7627,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Crisis",
+     "startMs": 7639,
+     "endMs": 8096,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Center",
+     "startMs": 8108,
+     "endMs": 8457,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " for",
+     "startMs": 8469,
+     "endMs": 8649,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Women",
+     "startMs": 8661,
+     "endMs": 8937,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 8950,
+     "endMs": 9070,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Children.",
+     "startMs": 9082,
+     "endMs": 9647,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Open",
+     "startMs": 10031,
+     "endMs": 10284,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 10296,
+     "endMs": 10380,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Haven",
+     "startMs": 10392,
+     "endMs": 10800,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " for",
+     "startMs": 10812,
+     "endMs": 10981,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " the",
+     "startMs": 10993,
+     "endMs": 11077,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Elderly.",
+     "startMs": 11089,
+     "endMs": 11738,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Fill",
+     "startMs": 12099,
+     "endMs": 12339,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " critical",
+     "startMs": 12351,
+     "endMs": 12784,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " vacant",
+     "startMs": 12796,
+     "endMs": 13180,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " plantilla",
+     "startMs": 13192,
+     "endMs": 13661,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " positions.",
+     "startMs": 13673,
+     "endMs": 14406,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " And",
+     "startMs": 14791,
+     "endMs": 14911,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " build",
+     "startMs": 14923,
+     "endMs": 15151,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 15163,
+     "endMs": 15224,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " PSWDO",
+     "startMs": 15236,
+     "endMs": 16221,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Information",
+     "startMs": 16233,
+     "endMs": 16834,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " System,",
+     "startMs": 16846,
+     "endMs": 17279,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " so",
+     "startMs": 17748,
+     "endMs": 17868,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " that",
+     "startMs": 17880,
+     "endMs": 18096,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " every",
+     "startMs": 18108,
+     "endMs": 18337,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " case",
+     "startMs": 18349,
+     "endMs": 18637,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 18649,
+     "endMs": 18757,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " tracked",
+     "startMs": 18769,
+     "endMs": 19178,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 19190,
+     "endMs": 19286,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " no",
+     "startMs": 19298,
+     "endMs": 19454,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " client",
+     "startMs": 19466,
+     "endMs": 19899,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 19911,
+     "endMs": 20043,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " left",
+     "startMs": 20055,
+     "endMs": 20320,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " behind.",
+     "startMs": 20332,
+     "endMs": 20933,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 9605
+  },
+  {
+   "id": "impact",
+   "title": "What It Means for Romblon",
+   "chapter": "Impact",
+   "hash": "df1b03f75a1d",
+   "audio": "voiceover/impact.mp3",
+   "durationMs": 22632,
+   "frames": 715,
+   "captions": [
+    {
+     "text": "What",
+     "startMs": 572,
+     "endMs": 656,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " does",
+     "startMs": 668,
+     "endMs": 800,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " this",
+     "startMs": 812,
+     "endMs": 1017,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " mean",
+     "startMs": 1029,
+     "endMs": 1233,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " for",
+     "startMs": 1245,
+     "endMs": 1437,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Romblon?",
+     "startMs": 1450,
+     "endMs": 2147,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Across",
+     "startMs": 2531,
+     "endMs": 2892,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 17",
+     "startMs": 2904,
+     "endMs": 3385,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " municipalities",
+     "startMs": 3397,
+     "endMs": 4262,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 4274,
+     "endMs": 4382,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " 3",
+     "startMs": 4394,
+     "endMs": 4635,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " major",
+     "startMs": 4647,
+     "endMs": 5019,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " islands,",
+     "startMs": 5031,
+     "endMs": 5476,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " roughly",
+     "startMs": 5957,
+     "endMs": 6305,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " one",
+     "startMs": 6317,
+     "endMs": 6546,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 6558,
+     "endMs": 6714,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " every",
+     "startMs": 6726,
+     "endMs": 6966,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " thirteen",
+     "startMs": 6978,
+     "endMs": 7423,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Romblomanons",
+     "startMs": 7435,
+     "endMs": 8192,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " was",
+     "startMs": 8204,
+     "endMs": 8397,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " reached",
+     "startMs": 8409,
+     "endMs": 8697,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " by",
+     "startMs": 8709,
+     "endMs": 8853,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 8865,
+     "endMs": 8938,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " PSWDO",
+     "startMs": 8950,
+     "endMs": 9947,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " service",
+     "startMs": 9959,
+     "endMs": 10416,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " this",
+     "startMs": 10428,
+     "endMs": 10656,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " year.",
+     "startMs": 10668,
+     "endMs": 11005,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " A",
+     "startMs": 11389,
+     "endMs": 11449,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " survivor",
+     "startMs": 11462,
+     "endMs": 12014,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " finds",
+     "startMs": 12026,
+     "endMs": 12363,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " safety.",
+     "startMs": 12375,
+     "endMs": 12928,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " A",
+     "startMs": 13312,
+     "endMs": 13373,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " solo",
+     "startMs": 13385,
+     "endMs": 13721,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " parent",
+     "startMs": 13733,
+     "endMs": 14082,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " finds",
+     "startMs": 14094,
+     "endMs": 14406,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " support.",
+     "startMs": 14418,
+     "endMs": 14971,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " A",
+     "startMs": 15356,
+     "endMs": 15416,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " senior",
+     "startMs": 15428,
+     "endMs": 15837,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 15849,
+     "endMs": 16005,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " honored.",
+     "startMs": 16017,
+     "endMs": 16437,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " A",
+     "startMs": 16810,
+     "endMs": 16822,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " patient",
+     "startMs": 16834,
+     "endMs": 17243,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " gets",
+     "startMs": 17255,
+     "endMs": 17483,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " treatment.",
+     "startMs": 17495,
+     "endMs": 18060,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " A",
+     "startMs": 18409,
+     "endMs": 18469,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " child",
+     "startMs": 18481,
+     "endMs": 18829,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " in",
+     "startMs": 18841,
+     "endMs": 18925,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " trouble",
+     "startMs": 18938,
+     "endMs": 19298,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " gets",
+     "startMs": 19310,
+     "endMs": 19538,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " a",
+     "startMs": 19550,
+     "endMs": 19599,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " second",
+     "startMs": 19611,
+     "endMs": 20007,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " chance.",
+     "startMs": 20019,
+     "endMs": 20536,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " That",
+     "startMs": 20921,
+     "endMs": 21077,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " is",
+     "startMs": 21089,
+     "endMs": 21197,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " social",
+     "startMs": 21209,
+     "endMs": 21582,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " protection",
+     "startMs": 21594,
+     "endMs": 22135,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " with",
+     "startMs": 22147,
+     "endMs": 22267,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " heart.",
+     "startMs": 22279,
+     "endMs": 22796,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 10250
+  },
+  {
+   "id": "outro",
+   "title": "Thank You",
+   "chapter": "Closing",
+   "hash": "97db298c3317",
+   "audio": "voiceover/outro.mp3",
+   "durationMs": 7416,
+   "frames": 259,
+   "captions": [
+    {
+     "text": "Provincial",
+     "startMs": 584,
+     "endMs": 1077,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Social",
+     "startMs": 1089,
+     "endMs": 1474,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Welfare",
+     "startMs": 1486,
+     "endMs": 2026,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " and",
+     "startMs": 2038,
+     "endMs": 2123,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Development",
+     "startMs": 2135,
+     "endMs": 2700,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Office.",
+     "startMs": 2712,
+     "endMs": 3252,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Province",
+     "startMs": 3649,
+     "endMs": 4094,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " of",
+     "startMs": 4106,
+     "endMs": 4250,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Romblon.",
+     "startMs": 4262,
+     "endMs": 4959,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Serbisyong",
+     "startMs": 5332,
+     "endMs": 5981,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " May",
+     "startMs": 5993,
+     "endMs": 6137,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Puso.",
+     "startMs": 6149,
+     "endMs": 6714,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " Thank",
+     "startMs": 7099,
+     "endMs": 7303,
+     "timestampMs": null,
+     "confidence": null
+    },
+    {
+     "text": " you.",
+     "startMs": 7315,
+     "endMs": 7555,
+     "timestampMs": null,
+     "confidence": null
+    }
+   ],
+   "startFrame": 10950
+  }
+ ]
+}

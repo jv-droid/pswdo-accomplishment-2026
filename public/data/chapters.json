@@ -1,0 +1,119 @@
+{
+ "durationSec": 373.63,
+ "chapters": [
+  {
+   "id": "intro",
+   "title": "Serbisyong May Puso",
+   "chapter": "Introduction",
+   "startSec": 0.0
+  },
+  {
+   "id": "mandate",
+   "title": "Our Mandate",
+   "chapter": "Mandate",
+   "startSec": 20.03
+  },
+  {
+   "id": "personnel",
+   "title": "The People Behind the Service",
+   "chapter": "Personnel",
+   "startSec": 45.93
+  },
+  {
+   "id": "overview",
+   "title": "Accomplishments at a Glance",
+   "chapter": "Overview",
+   "startSec": 68.77
+  },
+  {
+   "id": "pave",
+   "title": "PAVE",
+   "chapter": "PAVE",
+   "startSec": 83.47
+  },
+  {
+   "id": "hero",
+   "title": "HERO",
+   "chapter": "HERO",
+   "startSec": 107.03
+  },
+  {
+   "id": "golden-life",
+   "title": "Golden Life",
+   "chapter": "Golden Life",
+   "startSec": 125.37
+  },
+  {
+   "id": "aics",
+   "title": "AICS",
+   "chapter": "AICS",
+   "startSec": 141.73
+  },
+  {
+   "id": "rhap",
+   "title": "RHAP",
+   "chapter": "RHAP",
+   "startSec": 160.8
+  },
+  {
+   "id": "youth-sdec",
+   "title": "Youth / SDEC",
+   "chapter": "Youth / SDEC",
+   "startSec": 179.77
+  },
+  {
+   "id": "cdc",
+   "title": "Child Development Centers",
+   "chapter": "Child Development",
+   "startSec": 202.13
+  },
+  {
+   "id": "cnsp",
+   "title": "CNSP",
+   "chapter": "CNSP",
+   "startSec": 214.23
+  },
+  {
+   "id": "cicl",
+   "title": "CICL",
+   "chapter": "CICL",
+   "startSec": 232.4
+  },
+  {
+   "id": "systems",
+   "title": "Centers, Accreditation and Partners",
+   "chapter": "Systems",
+   "startSec": 248.3
+  },
+  {
+   "id": "budget",
+   "title": "Budget Utilization",
+   "chapter": "Budget",
+   "startSec": 273.0
+  },
+  {
+   "id": "challenges",
+   "title": "Issues, Gaps and Challenges",
+   "chapter": "Challenges",
+   "startSec": 294.87
+  },
+  {
+   "id": "targets",
+   "title": "2027 Targets and Priorities",
+   "chapter": "2027 Targets",
+   "startSec": 320.17
+  },
+  {
+   "id": "impact",
+   "title": "What It Means for Romblon",
+   "chapter": "Impact",
+   "startSec": 341.67
+  },
+  {
+   "id": "outro",
+   "title": "Thank You",
+   "chapter": "Closing",
+   "startSec": 365.0
+  }
+ ]
+}
