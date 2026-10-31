@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { ArrowUpRight } from "lucide-react";
 import { asset, useScrollProgress, useScrollSpy } from "../hooks";
 import { Roll } from "./Section";
@@ -18,6 +18,26 @@ export const Nav: React.FC = () => {
   const active = useScrollSpy(NAV_LINKS.map(([id]) => id));
   const progress = useScrollProgress();
   const [scrolled, setScrolled] = useState(false);
+  const menuRef = useRef<HTMLDetailsElement>(null);
+  const closeMenu = () => {
+    if (menuRef.current) menuRef.current.open = false;
+  };
+  // Close the mobile menu on an outside tap or Escape.
+  useEffect(() => {
+    const onPointer = (e: PointerEvent) => {
+      const el = menuRef.current;
+      if (el?.open && !el.contains(e.target as Node)) el.open = false;
+    };
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") closeMenu();
+    };
+    document.addEventListener("pointerdown", onPointer);
+    document.addEventListener("keydown", onKey);
+    return () => {
+      document.removeEventListener("pointerdown", onPointer);
+      document.removeEventListener("keydown", onKey);
+    };
+  }, []);
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
     onScroll();
@@ -49,7 +69,7 @@ export const Nav: React.FC = () => {
             <Roll>Watch the film</Roll>
             <ArrowUpRight className="arrow" size={16} />
           </a>
-          <details className="mobile-menu">
+          <details className="mobile-menu" ref={menuRef}>
             <summary aria-label="Open navigation">
               <span />
               <span />
@@ -58,7 +78,7 @@ export const Nav: React.FC = () => {
             <div className="mobile-menu-panel">
               <nav aria-label="Mobile navigation">
                 {NAV_LINKS.map(([id, label], i) => (
-                  <a key={id} href={`#${id}`} style={{ ["--i" as string]: i }}>
+                  <a key={id} href={`#${id}`} style={{ ["--i" as string]: i }} onClick={closeMenu}>
                     <small aria-hidden="true">{String(i + 1).padStart(2, "0")}</small>
                     <span>{label}</span>
                   </a>
