@@ -10,3 +10,6 @@ Thumbs.db
 # Local voiceover scratch
 public/voiceover/_gen.log
 public/voiceover/samples/
+
+# Source deck kept locally; the shareable copy lives in public/docs/
+PSWDO ACCOMPLISHMENT JAN-OCTOBER 2026.pdf
