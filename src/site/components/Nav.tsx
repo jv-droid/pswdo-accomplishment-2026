@@ -18,6 +18,7 @@ export const Nav: React.FC = () => {
   const active = useScrollSpy(NAV_LINKS.map(([id]) => id));
   const progress = useScrollProgress();
   const [scrolled, setScrolled] = useState(false);
+  const [hidden, setHidden] = useState(false);
   const menuRef = useRef<HTMLDetailsElement>(null);
   const closeMenu = () => {
     if (menuRef.current) menuRef.current.open = false;
@@ -43,8 +44,16 @@ export const Nav: React.FC = () => {
       window.removeEventListener("scroll", onScroll);
     };
   }, []);
+  // Frosted bar once scrolled; on the way down the whole bar slides away, on the way up it returns.
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 40);
+    let last = window.scrollY;
+    const onScroll = () => {
+      const y = window.scrollY;
+      setScrolled(y > 40);
+      if (y > 140 && y > last + 4) setHidden(true);
+      else if (y < last - 4 || y <= 140) setHidden(false);
+      last = y;
+    };
     onScroll();
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
@@ -54,7 +63,7 @@ export const Nav: React.FC = () => {
       <div className="scroll-progress" aria-hidden="true">
         <i style={{ ["--p" as string]: `${progress}%` }} />
       </div>
-      <header className={`site-header${scrolled ? " is-scrolled" : ""}`}>
+      <header className={`site-header${scrolled ? " is-scrolled" : ""}${hidden ? " is-hidden" : ""}`}>
         <div className="container nav-wrap">
           <a className="brand" href="#top" aria-label="PSWDO Romblon home">
             <img src={asset("images/pswdo-logo-512.png")} alt="" />

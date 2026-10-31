@@ -97,7 +97,7 @@ a:hover > .roll > span, button:hover > .roll > span, .button:hover .roll > span 
 .mobile-menu-panel a { display: flex; align-items: center; gap: 12px; padding: 14px 12px; border-radius: 12px; font-size: 18px; font-weight: 500; animation: card-in 0.6s var(--ease-out) backwards; animation-delay: calc(var(--i, 0) * 50ms); }
 .mobile-menu-panel a:hover { background: var(--soft); }
 .mobile-menu-panel small { font-size: 11px; color: var(--muted); width: 24px; }
-@media (max-width: 960px) { .desktop-nav, .nav-cta { display: none; } .mobile-menu { display: block; } .site-header { height: 76px; } .brand small { display: none; } }
+@media (max-width: 960px) { .desktop-nav, .nav-cta { display: none; } .mobile-menu { display: block; } .site-header { height: 76px; transition: height 0.35s var(--ease-out), background 0.35s, border-color 0.35s, transform 0.35s var(--ease-out); } .site-header.is-hidden { transform: translateY(-100%); } .brand small { display: none; } }
 
 /* ---------- Hero ---------- */
 .home-hero { position: relative; isolation: isolate; min-height: 100svh; display: flex; flex-direction: column; justify-content: center; text-align: center; padding: clamp(120px, 16vh, 160px) 0 clamp(72px, 10vh, 96px); background: linear-gradient(#fbfbfd 0%, #f6f7fa 70%, #f2f4f8 100%); overflow: hidden; }
