@@ -1,0 +1,12 @@
+node_modules/
+dist/
+out/
+.remotion/
+*.log
+.DS_Store
+Thumbs.db
+# The rendered film (~70 MB) is committed so GitHub Pages can serve it; keep only one copy.
+
+# Local voiceover scratch
+public/voiceover/_gen.log
+public/voiceover/samples/
