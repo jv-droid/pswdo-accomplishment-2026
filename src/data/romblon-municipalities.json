@@ -1,0 +1,27 @@
+{
+  "groups": [
+    { "id": "tablas", "name": "Tablas Island", "note": "The largest island, home to nine of the 17 municipalities." },
+    { "id": "sibuyan", "name": "Sibuyan Island", "note": "Three municipalities around Mount Guiting-Guiting." },
+    { "id": "romblon", "name": "Romblon Island", "note": "Seat of the provincial government." },
+    { "id": "outer", "name": "Outer islands", "note": "Banton, Simara, Maestre de Campo and Carabao." }
+  ],
+  "municipalities": [
+    { "name": "Odiongan", "group": "tablas" },
+    { "name": "Looc", "group": "tablas" },
+    { "name": "Alcantara", "group": "tablas" },
+    { "name": "Santa Fe", "group": "tablas" },
+    { "name": "Ferrol", "group": "tablas" },
+    { "name": "San Andres", "group": "tablas" },
+    { "name": "San Agustin", "group": "tablas" },
+    { "name": "Calatrava", "group": "tablas" },
+    { "name": "Santa Maria", "group": "tablas" },
+    { "name": "San Fernando", "group": "sibuyan" },
+    { "name": "Cajidiocan", "group": "sibuyan" },
+    { "name": "Magdiwang", "group": "sibuyan" },
+    { "name": "Romblon", "group": "romblon", "tag": "Provincial capital" },
+    { "name": "Banton", "group": "outer", "island": "Banton Island" },
+    { "name": "Corcuera", "group": "outer", "island": "Simara Island" },
+    { "name": "Concepcion", "group": "outer", "island": "Maestre de Campo Island" },
+    { "name": "San Jose", "group": "outer", "island": "Carabao Island" }
+  ]
+}

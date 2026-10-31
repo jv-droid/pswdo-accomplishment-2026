@@ -1,0 +1,276 @@
+{
+  "office": {
+    "name": "Provincial Social Welfare and Development Office",
+    "short": "PSWDO",
+    "province": "Province of Romblon",
+    "government": "Provincial Government of Romblon",
+    "tagline": "Serbisyong May Puso",
+    "period": "January – October 2026",
+    "event": "Annual Planning and Review Conference",
+    "mandate": "The PSWDO promotes social protection, upholds human dignity, and enhances the well-being of disadvantaged individuals, families, and communities through responsive, inclusive, and accessible social welfare services.",
+    "mfo": [
+      "Policies and plans approved",
+      "Social protection PPAs implemented",
+      "Center- and institution-based services implemented",
+      "Special operations services implemented",
+      "Technical assistance and resource augmentation provided",
+      "Compliance with PGR rules and regulations"
+    ]
+  },
+  "video": { "fps": 30, "transitionFrames": 15, "leadMs": 500, "tailMs": 700, "voice": "en-US-EmmaMultilingualNeural", "rate": "+4%" },
+  "headline": { "clients": 22513, "programs": 7, "projects": 16, "activities": "98+", "personnel": 92, "socialWorkers": 12 },
+  "personnel": {
+    "total": 92,
+    "socialWorkers": 12,
+    "permanent": 9,
+    "plantilla": 67,
+    "vacant": 58,
+    "distribution": [
+      { "unit": "Permanent", "count": 9, "note": "Plantilla positions filled" },
+      { "unit": "Golden Life", "count": 20, "note": "Senior citizens program" },
+      { "unit": "Bahay Pag-asa", "count": 19, "note": "Youth rehabilitation center" },
+      { "unit": "PSCB", "count": 16, "note": "Productivity Skills and Capability Building" },
+      { "unit": "RHAP", "count": 8, "note": "Romblon Health Access Program" },
+      { "unit": "Crisis Center for Women and Children", "count": 7, "note": "Protective residential care" },
+      { "unit": "AICS", "count": 7, "note": "Assistance to Individuals in Crisis Situations" },
+      { "unit": "Support Staff", "count": 3, "note": "Administrative support" },
+      { "unit": "PAVE", "count": 2, "note": "Program Against Abuse, Violence and Exploitation" },
+      { "unit": "HERO", "count": 1, "note": "Helping Every Solo Parent with Resources and Opportunities" }
+    ]
+  },
+  "programs": [
+    {
+      "id": "pave",
+      "name": "PAVE",
+      "full": "Program Against Abuse, Violence and Exploitation",
+      "y2026": 3409, "y2025": 1308, "change": 160.6,
+      "unit": "clients",
+      "what": "Protective services for women and children: case management for victims of violence, psychosocial support, referrals and community campaigns such as Stop Karahasan.",
+      "impact": "More survivors are reached and more barangays are speaking up. Faster response means safer homes across Romblon's municipalities.",
+      "hook": "More than doubled"
+    },
+    {
+      "id": "hero",
+      "name": "HERO",
+      "full": "Helping Every Solo Parent with Resources and Opportunities",
+      "y2026": 903, "y2025": 737, "change": 22.5,
+      "unit": "solo parents",
+      "what": "Registers solo parents, issues Solo Parent IDs and connects them to the benefits and discounts of the Expanded Solo Parents Welfare Act.",
+      "impact": "Single mothers and fathers gain recognition, discounts and a path to livelihood, easing the load on one-income households.",
+      "hook": "Every solo parent counted"
+    },
+    {
+      "id": "golden-life",
+      "name": "Golden Life",
+      "full": "Senior Citizens Welfare Program",
+      "y2026": 3374, "y2025": 1788, "change": 88.7,
+      "unit": "senior citizens",
+      "what": "Assistance, benefits and recognition for older Romblomanons, from welfare support to honoring the province's elders.",
+      "impact": "Nearly twice as many seniors were served, bringing dignity and support to older persons on islands far from the capital.",
+      "hook": "Nearly doubled"
+    },
+    {
+      "id": "aics",
+      "name": "AICS",
+      "full": "Assistance to Individuals in Crisis Situations",
+      "y2026": 3950, "y2025": 3237, "change": 22.0,
+      "unit": "individuals and families",
+      "what": "The province's frontline for emergencies: medical, burial, transportation, food and educational assistance for families in sudden crisis.",
+      "impact": "When a family faces a hospital bill or a funeral they cannot afford, AICS is often the difference between recovery and ruin.",
+      "hook": "Frontline in a crisis"
+    },
+    {
+      "id": "rhap",
+      "name": "RHAP",
+      "full": "Romblon Health Access Program",
+      "y2026": 9329, "y2025": 6293, "change": 48.2,
+      "unit": "clients",
+      "what": "Helps residents with hospital bills, medicines and referrals so that no family has to choose between health and survival.",
+      "impact": "The largest program by reach. Nine thousand Romblomanons received health assistance that would otherwise have pushed them into debt.",
+      "hook": "Largest reach"
+    },
+    {
+      "id": "youth-sdec",
+      "name": "Youth / SDEC",
+      "full": "Youth Development and Special Drug Education Center",
+      "y2026": 1173, "y2025": 1425, "change": -17.7,
+      "unit": "young people",
+      "what": "Prevention education, counseling and development activities that guide young people away from drugs and toward productive lives.",
+      "impact": "Reach declined this year. The office treats this as a signal to strengthen staffing and school and barangay outreach in 2027.",
+      "hook": "A signal to act on"
+    },
+    {
+      "id": "cdc",
+      "name": "Child Development Center",
+      "full": "Child Development Centers and Workers",
+      "y2026": 306, "y2025": 306, "change": 0.0,
+      "unit": "centers and workers",
+      "what": "Supports the province's Child Development Centers and the workers who run them, where early childhood learning begins.",
+      "impact": "A steady foundation for Romblon's youngest learners, with 306 centers and workers supported provincewide.",
+      "hook": "Steady foundation"
+    },
+    {
+      "id": "cnsp",
+      "name": "CNSP",
+      "full": "Children in Need of Special Protection",
+      "y2026": 56, "y2025": 21, "change": 166.7,
+      "unit": "children",
+      "what": "Case management, placement and protective care for children who are abandoned, neglected, abused or exploited.",
+      "impact": "More vulnerable children are being found and protected. Each case is a child removed from harm and placed on a path to healing.",
+      "hook": "Highest growth"
+    },
+    {
+      "id": "cicl",
+      "name": "CICL",
+      "full": "Children in Conflict with the Law",
+      "y2026": 13, "y2025": 9, "change": 44.4,
+      "unit": "children",
+      "what": "Diversion, rehabilitation and reintegration for children in conflict with the law under the Juvenile Justice and Welfare Act, anchored at Bahay Pag-asa.",
+      "impact": "Thirteen children were given intervention and a second chance instead of detention.",
+      "hook": "A second chance"
+    }
+  ],
+  "childDevelopment": {
+    "assessed": 76, "endorsed": 76, "accredited2026": 78, "accreditedTotal": 209, "centersTotal": 306,
+    "centers": ["Bahay Pag-asa", "PSCB"],
+    "partnerships": ["Ruel Foundation", "Romblon State University"]
+  },
+  "budget": {
+    "funds": [
+      { "id": "gad", "name": "GAD", "full": "Gender and Development Fund", "plain": "Programs for women, gender equality and protection against gender-based violence", "fund": 20.89, "utilized": 13.95, "pct": 67 },
+      { "id": "scpwd", "name": "1% SC / PWD", "full": "Senior Citizens and Persons with Disability Fund", "plain": "Benefits, assistance and services for older persons and persons with disability", "fund": 11.18, "utilized": 8.96, "pct": 80 },
+      { "id": "lcpc", "name": "1% LCPC", "full": "Local Council for the Protection of Children Fund", "plain": "Protection, care and development programs for children", "fund": 12.71, "utilized": 10.85, "pct": 85 }
+    ],
+    "totalFund": 44.78,
+    "totalUtilized": 33.76,
+    "totalPct": 75.4
+  },
+  "challenges": [
+    {
+      "id": "workforce",
+      "title": "Workforce Capacity, Staffing and Retention",
+      "concerns": [
+        "9 of 67 plantilla positions filled; 58 vacant",
+        "Reliance on COS / JO personnel and high turnover",
+        "Limited case managers, technical support and supervisors",
+        "Additional LGU augmentation assignments"
+      ],
+      "impact": "Overlapping functions, heavy caseloads, limited supervision and continuity, and delays in implementation, monitoring and reporting.",
+      "response": "Fill critical plantilla positions; assign dedicated case managers and technical support; strengthen retention and workload allocation."
+    },
+    {
+      "id": "facility",
+      "title": "Facility Completion and Operational Readiness",
+      "concerns": [
+        "Delayed or substandard facility works",
+        "Leaking roofs, damaged tiles and inadequate water storage",
+        "Unfinished gates and other readiness requirements"
+      ],
+      "impact": "Delayed center operations, safety concerns and difficulty meeting center-based service targets.",
+      "response": "Complete and inspect facilities; address safety and structural deficiencies; provide essential utilities, equipment and readiness standards."
+    },
+    {
+      "id": "funding",
+      "title": "Funding Adequacy and Timely Assistance",
+      "concerns": [
+        "Limited AICS and hospital assistance funds",
+        "Need for supplemental appropriations or realignment"
+      ],
+      "impact": "Pending client requests, unpaid hospital billings and delays in assistance to individuals and families in crisis.",
+      "response": "Review funding needs and utilization; prioritize urgent cases; pursue timely augmentation or realignment."
+    }
+  ],
+  "targets2027": [
+    {
+      "id": "bahay-pag-asa",
+      "title": "Bahay Pag-asa Youth Center",
+      "goal": "Full operation of the center",
+      "kpi": "Operational center delivering services in accordance with applicable standards.",
+      "resources": ["Dedicated staff", "Completed facility and utilities", "Operating funds", "Equipment and supplies", "Inter-agency coordination"]
+    },
+    {
+      "id": "crisis-center",
+      "title": "Crisis Center for Women and Children",
+      "goal": "Operationalize the Crisis Center",
+      "kpi": "Center ready to provide appropriate protective services.",
+      "resources": ["Trained personnel", "Safe and compliant facility", "Equipment and supplies", "Operating funds", "Referral network"]
+    },
+    {
+      "id": "haven",
+      "title": "Haven for the Elderly",
+      "goal": "Operationalize the Haven",
+      "kpi": "Facility ready to provide residential and support services for older persons.",
+      "resources": ["Dedicated personnel", "Accessible and safe facility", "Equipment and supplies", "Operating funds", "Health-service partnerships"]
+    },
+    {
+      "id": "plantilla",
+      "title": "Filling of Critical Vacant Plantilla Positions",
+      "goal": "Staff the office for the long term",
+      "kpi": "Number of vacant plantilla positions filled.",
+      "resources": ["Approved plantilla items and PS budget", "Qualified applicants"]
+    },
+    {
+      "id": "information-system",
+      "title": "PSWDO Information System",
+      "goal": "Develop and implement a province-wide case system",
+      "kpi": "Functional and operational PSWDO Information System.",
+      "resources": ["System developer", "Computer and server", "Training and maintenance budget"]
+    }
+  ],
+  "romblon": {
+    "municipalities": 17,
+    "islands": "3 major",
+    "population": 302824,
+    "populationNote": "2024 Census of Population (POPCEN), Philippine Statistics Authority",
+    "reachRatioWord": "thirteen",
+    "reachRatio": "1 in 13",
+    "impactPoints": [
+      { "title": "Safety for survivors", "text": "3,409 women and children reached through PAVE, with case management and community campaigns against violence." },
+      { "title": "Health without debt", "text": "9,329 Romblomanons helped with hospital bills and medicines through RHAP, keeping families out of medical debt." },
+      { "title": "Dignity for elders", "text": "3,374 senior citizens served under Golden Life, nearly double the previous year." },
+      { "title": "A lifeline in crisis", "text": "3,950 individuals and families assisted through AICS when emergencies struck." },
+      { "title": "Children protected", "text": "56 children in need of special protection and 13 children in conflict with the law given care and a second chance." },
+      { "title": "Stronger systems", "text": "78 Child Development Centers accredited this year, bringing the province to 209 of 306." }
+    ]
+  },
+  "scenes": [
+    { "id": "intro", "title": "Serbisyong May Puso", "chapter": "Introduction",
+      "narration": "Serbisyong May Puso. From January to October 2026, the Provincial Social Welfare and Development Office of Romblon reached 22,513 clients across the province. Behind every one of these numbers is a family, a child, or an elder whose life was touched. This is our story." },
+    { "id": "mandate", "title": "Our Mandate", "chapter": "Mandate",
+      "narration": "The PSWDO promotes social protection, upholds human dignity, and enhances the well-being of disadvantaged individuals, families, and communities. Six major final outputs guide this work: approving policies and plans, implementing social protection programs, running centers and institutions, delivering special operations, providing technical assistance, and ensuring compliance with provincial rules." },
+    { "id": "personnel", "title": "The People Behind the Service", "chapter": "Personnel",
+      "narration": "Who delivers these services? 92 personnel, including 12 licensed social workers, spread across every program. Twenty staff serve under Golden Life, nineteen at Bahay Pag-asa, and sixteen in Productivity Skills and Capability Building. Yet only nine positions are permanent. Most of this work rests on contractual and job-order personnel." },
+    { "id": "overview", "title": "Accomplishments at a Glance", "chapter": "Overview",
+      "narration": "In ten months, 7 programs, 16 projects, and more than 98 activities reached 22,513 clients. Compared with 2025, nearly every program grew, and some more than doubled. Let's look at each one." },
+    { "id": "pave", "title": "PAVE", "chapter": "PAVE", "program": "pave",
+      "narration": "PAVE, the Program Against Abuse, Violence and Exploitation, protects women and children from violence through case management, psychosocial support, and community campaigns like Stop Karahasan. Clients served jumped from 1,308 to 3,409, a 160 percent increase. More survivors are being reached, and more communities are speaking up." },
+    { "id": "hero", "title": "HERO", "chapter": "HERO", "program": "hero",
+      "narration": "HERO, Helping Every Solo Parent with Resources and Opportunities, registers solo parents, issues their IDs, and connects them to the benefits of the Expanded Solo Parents Welfare Act. 903 solo parents were served this year, up 22 percent from 737." },
+    { "id": "golden-life", "title": "Golden Life", "chapter": "Golden Life", "program": "golden-life",
+      "narration": "Golden Life is our program for senior citizens, delivering assistance, benefits, and recognition to older Romblomanons. Reach nearly doubled, from 1,788 to 3,374 seniors, an 88 percent increase." },
+    { "id": "aics", "title": "AICS", "chapter": "AICS", "program": "aics",
+      "narration": "AICS, Assistance to Individuals in Crisis Situations, is the province's frontline for emergencies: medical, burial, transportation, food, and educational assistance. 3,950 individuals and families received help, 22 percent more than last year." },
+    { "id": "rhap", "title": "RHAP", "chapter": "RHAP", "program": "rhap",
+      "narration": "The Romblon Health Access Program is our largest program by reach. It helps residents with hospital bills, medicines, and referrals, so that no family has to choose between health and survival. 9,329 clients were assisted, up 48 percent from 6,293." },
+    { "id": "youth-sdec", "title": "Youth / SDEC", "chapter": "Youth / SDEC", "program": "youth-sdec",
+      "narration": "Our Youth and Special Drug Education Center programs guide young people through prevention education, counseling, and development activities. Reach declined 17.7 percent, from 1,425 to 1,173. We treat this honestly: it signals where staffing and outreach must be strengthened in 2027." },
+    { "id": "cdc", "title": "Child Development Centers", "chapter": "Child Development", "program": "cdc",
+      "narration": "Child Development Centers are where early learning begins. 306 centers and workers were supported this year, the same as last year, a steady foundation for Romblon's youngest learners." },
+    { "id": "cnsp", "title": "CNSP", "chapter": "CNSP", "program": "cnsp",
+      "narration": "Children in Need of Special Protection are those who are abandoned, neglected, or abused. 56 children were placed under protective case management this year, up from 21. That is a 167 percent increase, meaning more vulnerable children are being found and protected." },
+    { "id": "cicl", "title": "CICL", "chapter": "CICL", "program": "cicl",
+      "narration": "For Children in Conflict with the Law, the office provides diversion, rehabilitation, and reintegration under the Juvenile Justice and Welfare Act. 13 children were served, compared with 9 last year, each given a second chance instead of a sentence." },
+    { "id": "systems", "title": "Centers, Accreditation and Partners", "chapter": "Systems",
+      "narration": "Beyond direct services, the office strengthened the system itself. 76 Child Development Centers were assessed and endorsed, and 78 were accredited in 2026, bringing the province to 209 accredited centers out of 306. Bahay Pag-asa and the Productivity Skills and Capability Building center continued operating, with partners like the Ruel Foundation and Romblon State University." },
+    { "id": "budget", "title": "Budget Utilization", "chapter": "Budget",
+      "narration": "Resources were put to work. Of 44.78 million pesos across three key funds, 33.76 million was utilized. The one percent Local Council for the Protection of Children fund led at 85 percent, followed by the Senior Citizen and PWD fund at 80 percent, and the Gender and Development fund at 67 percent." },
+    { "id": "challenges", "title": "Issues, Gaps and Challenges", "chapter": "Challenges",
+      "narration": "Progress comes with challenges, grouped into three gaps. First, workforce capacity: only 9 of 67 plantilla positions are filled. Second, facility readiness: leaking roofs, damaged tiles, and unfinished works delay center operations. Third, funding adequacy: limited AICS and hospital assistance funds leave client requests pending. Each gap has a priority response." },
+    { "id": "targets", "title": "2027 Targets and Priorities", "chapter": "2027 Targets",
+      "narration": "For 2027, the priorities are clear. Fully operate the Bahay Pag-asa Youth Center. Operationalize the Crisis Center for Women and Children. Open the Haven for the Elderly. Fill critical vacant plantilla positions. And build a PSWDO Information System, so that every case is tracked and no client is left behind." },
+    { "id": "impact", "title": "What It Means for Romblon", "chapter": "Impact",
+      "narration": "What does this mean for Romblon? Across 17 municipalities and 3 major islands, roughly one in every thirteen Romblomanons was reached by a PSWDO service this year. A survivor finds safety. A solo parent finds support. A senior is honored. A patient gets treatment. A child in trouble gets a second chance. That is social protection with heart." },
+    { "id": "outro", "title": "Thank You", "chapter": "Closing",
+      "narration": "Provincial Social Welfare and Development Office. Province of Romblon. Serbisyong May Puso. Thank you." }
+  ]
+}
