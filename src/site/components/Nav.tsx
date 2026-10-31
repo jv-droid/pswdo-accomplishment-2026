@@ -22,7 +22,7 @@ export const Nav: React.FC = () => {
   const closeMenu = () => {
     if (menuRef.current) menuRef.current.open = false;
   };
-  // Close the mobile menu on an outside tap or Escape.
+  // Close the mobile menu on an outside tap, on scroll, or on Escape.
   useEffect(() => {
     const onPointer = (e: PointerEvent) => {
       const el = menuRef.current;
@@ -31,11 +31,16 @@ export const Nav: React.FC = () => {
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "Escape") closeMenu();
     };
+    const onScroll = () => {
+      if (menuRef.current?.open) menuRef.current.open = false;
+    };
     document.addEventListener("pointerdown", onPointer);
     document.addEventListener("keydown", onKey);
+    window.addEventListener("scroll", onScroll, { passive: true });
     return () => {
       document.removeEventListener("pointerdown", onPointer);
       document.removeEventListener("keydown", onKey);
+      window.removeEventListener("scroll", onScroll);
     };
   }, []);
   useEffect(() => {
